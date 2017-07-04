@@ -1,10 +1,3 @@
-# promise.qml
-
-A port of promise to QML, just warp from [then/promise](https://github.com/then/promise)
-
-## how to use
-
-```
 import QtQuick 2.8
 
 import promise 1.0           // for import PromiseLib
@@ -22,6 +15,3 @@ Item {
         });
     }
 }
-```
-
-
