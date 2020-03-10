@@ -24,4 +24,9 @@ Item {
 }
 ```
 
+## Qt5.12 or later support `Promise`
+
+Qt5.12 or later support `Promise`, see here [New_Features_in_Qt_5.12#The JavaScript engine now supports ECMAScript 7](https://wiki.qt.io/New_Features_in_Qt_5.12)
+
+
 
